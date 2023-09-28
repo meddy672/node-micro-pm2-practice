@@ -19,6 +19,6 @@
     "morgan": "^1.9.1",
     "mysql2": "^1.6.4",
     "sequelize": "^6.33.0",
-    "sequelize-cli": "^5.4.0"
+    "sequelize-cli": "^5.5.1"
   }
 }
