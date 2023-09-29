@@ -34,7 +34,7 @@
     "qs": "^6.11.2",
     "react-datetime": "^3.2.0",
     "semver": "^7.5.4",
-    "sequelize": "^4.42.0",
+    "sequelize": "^6.29.0",
     "sequelize-cli": "^5.4.0",
     "uglify-js": "^3.17.4",
     "winston": "^3.10.0",
